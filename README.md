@@ -1,7 +1,8 @@
 # myvim
 ## meu arquivo .vim
 
-eu uso pathogen como gerenciador de plugin  eu  uso 
+eu uso pathogen como gerenciador de plugin, meus plugins:
+eu  uso 
 pydiction(esse aqui eu fiz a instalação como apagina deles esplicava então esse tá fora da pasta bundle ele tá na pasta .vim), 
 clang_complete,emmet-vim, nerdtree,targets.vim, vim-clang, vim-javacomplete2,  vim-snippets, completor-dictionar, 
 java-syntax.vim, pdv, terroo-colors (um tema muito bonito pro vim), vim-commentary, vim-jsx, vim-surround,
