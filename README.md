@@ -1,7 +1,9 @@
 # myvim
 ## meu arquivo .vim
+
 >lsd .vim/
-  autoload    bundle    pydiction  
+  autoload    bundle    pydiction 
+
 > lsd bundle/
   ale                     emmet-vim          onedark.vim    tmux-powerline-theme    vim-commentary        vim-javacomplete2       vim-surround
   clang_complete          goyo.vim           pdv            ultisnips               vim-css-color         vim-jsx               
@@ -11,4 +13,5 @@
   delimitMate             nerdtree           targets.vim    vim-clang               vim-html5validator    vim-snippets  
 
 não uso todos mas provavewlmente já usei todos é uso a maioria
+uso o patogenico no meu vim acho mais pratico pra instalar plugins 
 
