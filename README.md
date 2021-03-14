@@ -10,5 +10,5 @@ emmet-vim/       onedark.vim/      vim-airline/         vim-dracula/           v
 gitvim           Pydiction/        vim-airline-themes/  vim-gutentags/         vim-snippets/
 
 
-## não uso todos mas provavewlmente já usei todos é uso a maioria uso o patogenico no meu vim acho mais pratico pra instalar plugins 
+## não uso todos mas provavelmente já usei todos é uso a maioria uso o patogenico no meu vim acho mais pratico pra instalar plugins 
 
