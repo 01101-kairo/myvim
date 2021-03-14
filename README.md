@@ -8,7 +8,3 @@ completor.vim/   jedi-vim/         targets.vim/         vim-css-color-master/  v
 delimitMate/     nerdtree/         ultisnips/           vim-devicons/          vim-repeat/
 emmet-vim/       onedark.vim/      vim-airline/         vim-dracula/           vim-signify/
 gitvim           Pydiction/        vim-airline-themes/  vim-gutentags/         vim-snippets/
-
-
-## não uso todos mas provavelmente já usei todos é uso a maioria uso o patogenico no meu vim acho mais pratico pra instalar plugins 
-
